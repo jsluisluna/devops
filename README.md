@@ -1,2 +1,2 @@
 # devops
-DevOps litle projects and examples
+DevOps little projects and examples
